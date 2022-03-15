@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+hi{
+    width: 250px;
+}
+.foto{
+    width: 200px;
+    height: 200px;
+    background-image:url(cat.jpg);
+}
+p{
+    width: 300px;
+    margin:0 auto;
+}
